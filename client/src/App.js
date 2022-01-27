@@ -31,7 +31,6 @@ const client = new ApolloClient({
 });
 
 function App() {
-  console.log(authLink);
   return (
     <ApolloProvider client={client}>
       <Router>
