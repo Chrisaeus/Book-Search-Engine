@@ -15,8 +15,8 @@ async function startServer() {
     resolvers,
     context: authMiddleware
   });
-  
-  await server.start();
+
+  // await server.start();
   server.applyMiddleware({ app });
 }
 

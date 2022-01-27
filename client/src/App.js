@@ -30,8 +30,8 @@ const client = new ApolloClient({
   cache: new InMemoryCache(),
 });
 
-
 function App() {
+  console.log(authLink);
   return (
     <ApolloProvider client={client}>
       <Router>
