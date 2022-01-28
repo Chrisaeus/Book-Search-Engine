@@ -52,6 +52,9 @@ Book search results include the book's cover, title, author(s), and a descriptio
 
 9. Enjoy the exhilirating experience that is literary art.
 
+<br/>
+
+![Book Search Screenshot](./assets/images/book-search.png)
 
 ---
 
