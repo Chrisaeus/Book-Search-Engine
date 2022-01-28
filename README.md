@@ -1,4 +1,4 @@
-# Book Search Engine
+# [Book Search Engine](https://pacific-retreat-93346.herokuapp.com/)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 
@@ -36,7 +36,7 @@ Book search results include the book's cover, title, author(s), and a descriptio
 
 1. If running locally, use `npm run develop` if testing and `npm run build` and `npm start` to create a production build and start the server.
 
-2. Access the Heroku-deployed version of the app [here]().
+2. Access the Heroku-deployed version of the app [here](https://pacific-retreat-93346.herokuapp.com/).
 
 3. Input an author or book title in the input field.
 
